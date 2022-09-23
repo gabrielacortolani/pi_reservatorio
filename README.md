@@ -49,5 +49,6 @@ Esse dash tem como objetivo:
  * Um histórico dos dados coledados
  * Um gráfico de preciptação
  * Um gráfico de vazão
-Topos esses dados poderão ser filtrados por data e sensor. Será atualizado automaticamente de acordo com o que o usário parametrizar.
+ * 
+Todos esses dados poderão ser filtrados por data e sensor. Será atualizado automaticamente de acordo com o que o usário parametrizar.
 ![image](https://user-images.githubusercontent.com/69817325/191875685-3922b64d-f807-470d-8a9a-01b808385d9c.png)
