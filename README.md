@@ -2,7 +2,7 @@
 
 ## Projeto destinado ao controle e monitoramento do nível de chorume nos reservatórios
 
-### backend
+### Backend
 Backend desenvolvido em NodeJS. Para seu funcionamento, deve-se criar um banco MYSQL e fazer sua parametrização no arquivo
 - /src/config/banco.js
 
