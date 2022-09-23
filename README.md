@@ -41,7 +41,7 @@ A url será obtida após execução do backend
 Será criado um dashboard utilizando o grafana, para isso deve-se fazer o download do mesmo no site do GRAFANA (https://grafana.com/) e após importar o arquivo que encontra -se em
 - /grafana
 
-Esse dash em como objetivo: 
+Esse dash tem como objetivo: 
  * Mostrar o nível atual dos sensores
  * Mostrar a média das leituras
  * O menor nível atingido
